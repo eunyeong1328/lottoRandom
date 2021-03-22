@@ -1,6 +1,6 @@
-# lottoRandom
+# 로또 생성기
 
-###로또 생성기
+###
 ```
 import kotlin.random.Random
 import java.util.*
